@@ -1,6 +1,6 @@
 import express from 'express';
 import path from 'path';
-imort open from 'open';
+import open from 'open';
 
 const port = 3000;
 const app = express();
